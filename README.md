@@ -1,4 +1,4 @@
-# NovaTech Solutions
+# NovaTech Solutions  
 
 Demo project for the **Advanced Claude Code** course on Pluralsight.
 
